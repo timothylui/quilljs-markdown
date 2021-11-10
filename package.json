@@ -2,7 +2,7 @@
   "name": "quilljs-markdown",
   "version": "1.1.7",
   "description": "Markdown for Quill Editor",
-  "main": "index.js",
+  "main": "dist/quilljs-markdown.js",
   "scripts": {
     "clean": "node_modules/.bin/rimraf ./dist",
     "watch": "parcel serve ./docs/index.html",
